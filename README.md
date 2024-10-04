@@ -4,6 +4,11 @@ This repository includes the official implementation of the paper [**Anime Recom
 ## Dataset
 This study uses dataset from [Hernan Valdivieso - Anime Recommendation Database 2020](https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020)
 
+## Kaggle
+[Anime Recommendation System - BERT](https://www.kaggle.com/code/christopherreswara/anime-recommendation-system-bert)
+[Anime Recommendation System - TF-IDF](https://www.kaggle.com/code/christopherreswara/anime-recommendation-system-tf-idf)
+[Anime Recommendation System - BoW](https://www.kaggle.com/code/christopherreswara/anime-recommendation-system-bow)
+
 ## BibTeX
 If you found our implementation useful, please consider citing our paper:
 ```
