@@ -1,6 +1,9 @@
 # Anime Recommendation System Using Bert and Cosine Similarity
 This repository includes the official implementation of the paper [**Anime Recommendation System Using Bert and Cosine Similarity**](https://doi.org/10.1109/AiDAS60501.2023.10284693) (AiDAS 2023).
 
+## Dataset
+This study uses dataset from [Hernan Valdivieso - Anime Recommendation Database 2020](https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020)
+
 ## BibTeX
 If you found our implementation useful, please consider citing our paper:
 ```
