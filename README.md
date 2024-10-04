@@ -6,7 +6,9 @@ This study uses dataset from [Hernan Valdivieso - Anime Recommendation Database 
 
 ## Kaggle
 [Anime Recommendation System - BERT](https://www.kaggle.com/code/christopherreswara/anime-recommendation-system-bert)
+
 [Anime Recommendation System - TF-IDF](https://www.kaggle.com/code/christopherreswara/anime-recommendation-system-tf-idf)
+
 [Anime Recommendation System - BoW](https://www.kaggle.com/code/christopherreswara/anime-recommendation-system-bow)
 
 ## BibTeX
